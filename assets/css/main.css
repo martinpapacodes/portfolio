@@ -1508,7 +1508,8 @@
 
 		.image.avatar48 {
 			width: 48px;
-			height: 48px;
+			he
+			: 48px;
 			background: #f00;
 			transform: rotate(90deg);
 		}
@@ -1989,7 +1990,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/header-bg.jpg");
+				background-image: url("../../images/header-gif.gif");
 			}
 
 			#main > section.two {
