@@ -18,8 +18,8 @@ Number and name of feature: Feature #1: Add functionality
 
 Estimate of time needed to complete: 1 hour
 
-Start time: 10:25
+Start time: 10:30
 
-Finish time: _____
+Finish time: 1200
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 and 30 minutes
